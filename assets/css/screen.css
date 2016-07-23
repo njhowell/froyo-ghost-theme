@@ -565,7 +565,7 @@ h1.blog-title {
     z-index: 100;
     top: 0;
     bottom: auto;
-    text-align: right;
+    text-align: center;
 }
 
 .main-nav ul {
